@@ -1,5 +1,5 @@
 ---
-title: "Instrumenting Go code via AST, Part 2"
+title: Instrumenting Go code via AST, Part 2
 slug: instrumenting-go-code-via-ast-2
 series: "AST"
 date: 2020-03-15T00:00:00-04:00
